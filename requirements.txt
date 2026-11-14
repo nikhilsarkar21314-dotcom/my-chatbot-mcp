@@ -1,8 +1,9 @@
-
 fastapi
-uvicorn
+uvicorn[standard]
 python-dotenv
 requests
 pydantic
 httpx
 mcp
+pypdf
+python-multipart
